@@ -18,11 +18,7 @@ https://roadmap.sh/projects/nginx-log-analyser
 You can download the script directly using curl:
 
 ```bash
-
-```
-
-Or clone the repository:
-
-```bash
-
+curl -O https://raw.githubusercontent.com/YoungZerg/bash_small_projects/main/nginx_log_analyser/nginx_log_analyser.sh
+chmod +x nginx_log_analyser.sh
+./nginx_log_analyser.sh /path/to/nginx/access.log
 ```
