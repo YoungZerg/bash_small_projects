@@ -27,7 +27,7 @@ sudo chmod 700 /usr/local/bin/dummy.sh
 
 3) Copy service unit file to /etc/systemd/system and reload systemd
 ```bash
-sudo cp service-example.service to /etc/systemc/system/dummy.service
+sudo cp service-example.service /etc/systemc/system/dummy.service
 sudo systemctl daemon-reload
 ```
 
