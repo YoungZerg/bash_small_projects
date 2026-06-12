@@ -9,7 +9,7 @@ https://roadmap.sh/projects/dummy-systemd-service
 You can clone the repository
 ```bash
 git clone https://github.com/YoungZerg/bash_small_projects.git
-cd dummy_systemd_service/
+cd bash_small_projects/dummy_systemd_service/
 ```
 ## Preparation and set up
 
